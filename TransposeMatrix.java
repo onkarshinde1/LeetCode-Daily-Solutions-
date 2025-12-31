@@ -35,7 +35,7 @@ public class TransposeMatrix {
         int matrix[][] = {
             {2,4,-1},
             {-10,5, 11},
-            {18,-7,6}
+            {18,-7,8}
         };
         int result[][] =  (transpose(matrix));
 
