@@ -21,7 +21,7 @@ public class BinarySearch {
     // Explanation: 2 does not exist in nums so return -1
 
     public static void main(String args[]) {
-        int[] arr = { -12, -5, 0, 12, 14, 30, 50, 67 };
+        int[] arr = { -12, -5, 0, 12, 14, 30, 50, 67 ,89};
         int target = 30;
         int ans = search(arr, target);
         System.out.println(ans);
