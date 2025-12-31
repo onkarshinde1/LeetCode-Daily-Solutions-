@@ -29,7 +29,7 @@ public class SmallLetterthantarget {
     // Explanation: There are no characters in letters that is lexicographically
     // greater than 'z' so we return letters[0].
     public static void main(String[] args) {
-        char[] letters = { 'c', 'f', 'j' };
+        char[] letters = { 'c', 'f', 'j' , 'm'};
         char ans = greaterElem(letters, 'a');
         System.out.println(ans);
 
