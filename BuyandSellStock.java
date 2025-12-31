@@ -34,7 +34,7 @@ public class BuyandSellStock {
 
 
     public static void main(String args[]){
-        int prices[] = {7,1 ,5,3,6,4};
+        int prices[] = {7,1 ,5,3,6,4,9};
         int result = maxProfit(prices);
         System.out.println("The maximum profit is: " + result);
 
