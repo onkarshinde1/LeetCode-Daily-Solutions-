@@ -23,7 +23,7 @@ public class EvenNumberDigitsinArr {
     // Only 1771 contains an even number of digits.
 
     public static void main(String[] args) {
-        int[] nums = { 12, 345, 2, 6, 7896, 7667, 854, 33446, 767563, 45675683 };
+        int[] nums = { 12, 345, 2, 6, 7896, 7667, 854, 33446, 767563, 45675683,34242 };
 
         int solution = evenDigit(nums);
         System.out.println("The even count numbers in array is " + solution + ".");
