@@ -36,7 +36,7 @@ public class RichestCustomerWealth {
                 { 4, 7, 9 },
                 { 23, 5, 3, },
                 { 7, 54, 12 },
-                { 23, 43 }
+                { 23, 43 ,56}
         };
         int solution = maxWealth(accounts);
         System.out.println("the max wealth is " + solution);
