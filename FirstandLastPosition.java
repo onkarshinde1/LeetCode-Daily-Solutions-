@@ -1,7 +1,7 @@
 public class FirstandLastPosition {
 
     public static void main(String[] args) {
-        int[] arr = {5,6,7,7,7,7,7,8,8,10};
+        int[] arr = {5,6,7,7,7,7,7,8,8,10,12};
         int target = 7;
 
         FirstandLastPosition obj = new FirstandLastPosition();
