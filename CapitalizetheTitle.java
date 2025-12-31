@@ -47,7 +47,7 @@ public class CapitalizetheTitle {
 
 
     public static void main(String [] args){
-        String title = "First leTTeR of EACH Word";
+        String title = "First leTTeR of EACH Word ok";
         String result = capitalizeTitles(title);
         System.out.println(result);
     }
