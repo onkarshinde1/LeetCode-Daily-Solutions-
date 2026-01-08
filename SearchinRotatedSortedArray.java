@@ -30,8 +30,8 @@ public class SearchinRotatedSortedArray {
     // Output: -1
 
     public static void main(String[] args) {
-        int[] arr = { 4, 5, 6, 7, 0, 1, 2 };
-        int key = 0;
+        int[] arr = { 4, 5, 6, 7, 1, 2 , 0 ,1 };
+        int key = 0; 
         // int ans = reverseSearching(arr, key);
         int ans = (search(arr, key));
         System.out.println("the ans should be on index " + ans);
